@@ -17,6 +17,8 @@ variation of distance between palm and object after grasp was
 completed. The data was then trained on MLP, Random Forest, Light
 GBM, and SVM algorithms with parameter optimization to identify the
 optimal algorithm.
+
+
 The goal of this project is to design machine
 learning algorithm that accurately predicts
 the quality of a robotic arm grasp. The
