@@ -16,7 +16,7 @@ Grasping Sandbox). The Quality of grasp was measured as the
 variation of distance between palm and object after grasp was
 completed. The data was then trained on MLP, Random Forest, Light
 GBM, and SVM algorithms with parameter optimization to identify the
-optimal algorithm.
+optimal algorithm.(refer to project report and code for further details on project)
 
 
 The goal of this project is to design machine
